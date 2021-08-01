@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.students.fyp.emotionrecognition">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/smiling"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/smiling"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.students.fyp.emotionrecognition.Activities.TagActivity"></activity>
+        <activity android:name="com.students.fyp.emotionrecognition.Activities.WelcomeActivity" />
+        <activity android:name="com.students.fyp.emotionrecognition.Activities.HomeActivity">
+
+        </activity>
+        <activity android:name="com.students.fyp.emotionrecognition.Activities.SignupActivity" />
+        <activity android:name="com.students.fyp.emotionrecognition.Activities.LoginActivity" />
+        <activity android:name="com.students.fyp.emotionrecognition.Activities.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity android:name="com.students.fyp.emotionrecognition.Activities.CameraActivity" >
+
+        </activity>
+        <activity android:name="com.students.fyp.emotionrecognition.Activities.ResultActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

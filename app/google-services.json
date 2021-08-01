@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248973722643",
+    "project_id": "faceanalyzer-7af93",
+    "storage_bucket": "faceanalyzer-7af93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248973722643:android:512e7aff0486dfeadcabe6",
+        "android_client_info": {
+          "package_name": "com.students.fyp.emotionrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248973722643-akk6vl0fh07mpof4241h47r9isgi0hdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTWpFjB0CSGf4rIEBeZm2SaNI7UeQ9fYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248973722643-akk6vl0fh07mpof4241h47r9isgi0hdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

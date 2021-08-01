@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43053582840",
+    "project_id": "emotion-recognition-4f47a",
+    "storage_bucket": "emotion-recognition-4f47a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43053582840:android:c6d345eabc87ad11fdae0d",
+        "android_client_info": {
+          "package_name": "com.example.anany.emotionrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43053582840-86bj6kn9uapmbh64al19didm6socmtpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYfAY8KC-ICp4VX3SagCDoZESTHlin9fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43053582840-86bj6kn9uapmbh64al19didm6socmtpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Musicity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_required">Email is required</string>
+    <string name="invalid_email_address">Invalid Email Address</string>
+    <string name="password_required">Password is required</string>
+    <string name="password_length">Password should contain at least 6 characters.</string>
+    <string name="minimum_characters_password">Minimum 6 characters</string>
+    <string name="logging_in">Logging in...</string>
+    <string name="creating_new_account">Creating new account...</string>
+    <string name="required">Required</string>
+    <string name="username">Username is required</string>
+    <string name="user_created_successfully">User created successfully.</string>
+    <string name="analysing_photo">Analysing Photo...</string>
+</resources>
